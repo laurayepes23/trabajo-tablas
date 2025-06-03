@@ -1,5 +1,6 @@
+<pre>
 HTML INDEX
-<!-- <!DOCTYPE html>: Define que el documento usa HTML5.
+<!DOCTYPE html>: Define que el documento usa HTML5.
 <html lang="es">: Indica que el contenido está en español
 <meta charset="UTF-8">: Configura la codificación de caracteres para soportar tildes, eñes y símbolos.
 <title>: Título que se muestra en la pestaña del navegador
@@ -13,9 +14,6 @@ HTML INDEX
 <tr>: Fila de la tabla
 <td>: Celda de fila
 <footer>:copyright
--->
-
-
 
 CSS
 margin: 0: Elimina los márgenes que pone el navegador por defecto
@@ -31,3 +29,4 @@ width: 100%: La tabla ocupa todo el ancho disponible
 border-collapse: collapse: Junta los bordes de las celdas para que no haya espacios entre ellos
 box-shadow: 0 2px 4px rgba(0,0,0,0.1): Sombra muy suave alrededor
 
+</pre>
