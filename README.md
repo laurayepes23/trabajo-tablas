@@ -1,5 +1,6 @@
-<pre>
-HTML INDEX
+## HTML INDEX
+
+```html
 <!DOCTYPE html>: Define que el documento usa HTML5.
 <html lang="es">: Indica que el contenido está en español
 <meta charset="UTF-8">: Configura la codificación de caracteres para soportar tildes, eñes y símbolos.
@@ -13,7 +14,7 @@ HTML INDEX
 <tbody>: Contiene las filas de datos
 <tr>: Fila de la tabla
 <td>: Celda de fila
-<footer>:copyright
+<footer>: copyright
 
 CSS
 margin: 0: Elimina los márgenes que pone el navegador por defecto
@@ -27,6 +28,4 @@ padding-bottom: 5px: Espacio entre el texto y la línea
 margin-bottom: 15px: Espacio debajo del título antes de que empiece la tabla
 width: 100%: La tabla ocupa todo el ancho disponible
 border-collapse: collapse: Junta los bordes de las celdas para que no haya espacios entre ellos
-box-shadow: 0 2px 4px rgba(0,0,0,0.1): Sombra muy suave alrededor
-
-</pre>
+box-shadow: 0 2px 4px rgba(0,0,0,0.1): Sombra muy suave alrededor""
